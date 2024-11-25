@@ -1,0 +1,15 @@
+# Core Libraries
+numpy==1.24.4             # For numerical operations
+opencv-python==4.8.0.74   # For image and video processing
+opencv-contrib-python==4.8.0.74  # Additional OpenCV features
+
+# OCR Library
+easyocr==1.6.2            # For license plate text detection
+
+# Deep Learning and YOLO Model
+torch==2.0.1              # For PyTorch model compatibility
+torchvision==0.15.2       # For vision-related utilities in PyTorch
+ultralytics==8.0.0        # YOLO model support
+
+# Utility Libraries
+tqdm==4.65.0              # For progress bars (optional but useful)
